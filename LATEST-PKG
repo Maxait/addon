@@ -1,0 +1,15 @@
+{
+  "arch": "arm", "arm64",
+  "date": "20200824",
+  "assets": [
+    { "build": "BiTGApps-addon-assistant-R1_signed.zip", "md5sum": ["BiTGApps-addon-assistant-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-calculator-R1_signed.zip", "md5sum": ["BiTGApps-addon-calculator-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-calendar-R1_signed.zip", "md5sum": ["BiTGApps-addon-calendar-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-contacts-R1_signed.zip", "md5sum": ["BiTGApps-addon-contacts-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-deskclock-R1_signed.zip", "md5sum": ["BiTGApps-addon-deskclock-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-dialer-R1_signed.zip", "md5sum": ["BiTGApps-addon-dialer-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-messages-R1_signed.zip", "md5sum": ["BiTGApps-addon-messages-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-photos-R1_signed.zip", "md5sum": ["BiTGApps-addon-photos-R1_signed.md5"]},
+    { "build": "BiTGApps-addon-wellbeing-R1_signed.zip", "md5sum": ["BiTGApps-addon-wellbeing-R1_signed.md5"]}
+  ]
+}
